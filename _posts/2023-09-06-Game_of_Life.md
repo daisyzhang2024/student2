@@ -3,7 +3,7 @@ toc: false
 comments: false
 layout: post
 title: Game of Life
-description: Game with grid of cells, each being dead or alive and evolving over generations
+description: Game with grid of cells, each being dead or alive and evolving over generations of "people"
 type: hacks
 courses: { compsci: {week: 3} }
 ---
